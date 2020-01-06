@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Ibarra+Real+Nova:700,700i|Roboto:900,900i&display=swap');
+</style>
+
+body {
+background-color: #484848;
+color: white;
+font-family: "roboto", sans-serif;
+}
+
+h1 {
+text-align: center;
+font-weight: normal;
+padding: 40px 0;
+margin-bottom: 60px;
+border: 2px solid black;
+}
+
+h2 {
+  text-align: center;
+  font-weight: normal;
+  border: 2px solid black;
+}
+
+p {
+  text-align: center;
+  font-weight: normal;
+}
+
+footer {
+  text-align: center;
+  font-weight: normal;
+}
+
+#heading {
+  background-color: #808080;
+}
